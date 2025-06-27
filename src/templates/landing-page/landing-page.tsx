@@ -1,4 +1,5 @@
 import {
+  BotoomSection,
   CallToAction,
   CustomerStorySection,
   FeatureSection,
@@ -14,6 +15,7 @@ export const LandingPage = () => {
       <SupportSection />
       <CustomerStorySection />
       <CallToAction />
+      <BotoomSection />
     </article>
   );
 };

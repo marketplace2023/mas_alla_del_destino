@@ -1,7 +1,9 @@
+import CarrouselBanner from "@/components/home/carrousell-banner";
+
 export const FeatureSection = () => {
   return (
     <div>
-      <p>hola</p>
+      <CarrouselBanner />
     </div>
   );
 };
